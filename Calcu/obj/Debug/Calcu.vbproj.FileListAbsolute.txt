@@ -1,0 +1,11 @@
+C:\Users\user\Downloads\Continental\Evolucion de Software\Proyectos\Calcu\Calcu\bin\Debug\Calcu.exe.config
+C:\Users\user\Downloads\Continental\Evolucion de Software\Proyectos\Calcu\Calcu\bin\Debug\Calcu.exe
+C:\Users\user\Downloads\Continental\Evolucion de Software\Proyectos\Calcu\Calcu\bin\Debug\Calcu.pdb
+C:\Users\user\Downloads\Continental\Evolucion de Software\Proyectos\Calcu\Calcu\bin\Debug\Calcu.xml
+C:\Users\user\Downloads\Continental\Evolucion de Software\Proyectos\Calcu\Calcu\obj\Debug\Calcu.Resources.resources
+C:\Users\user\Downloads\Continental\Evolucion de Software\Proyectos\Calcu\Calcu\obj\Debug\Calcu.vbproj.GenerateResource.Cache
+C:\Users\user\Downloads\Continental\Evolucion de Software\Proyectos\Calcu\Calcu\obj\Debug\Calcu.exe
+C:\Users\user\Downloads\Continental\Evolucion de Software\Proyectos\Calcu\Calcu\obj\Debug\Calcu.xml
+C:\Users\user\Downloads\Continental\Evolucion de Software\Proyectos\Calcu\Calcu\obj\Debug\Calcu.pdb
+C:\Users\user\Downloads\Continental\Evolucion de Software\Proyectos\Calcu\Calcu\obj\Debug\Calcu.Form1.resources
+C:\Users\user\Downloads\Continental\Evolucion de Software\Proyectos\Calcu\Calcu\obj\Debug\Calcu.vbprojResolveAssemblyReference.cache
